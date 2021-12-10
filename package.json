@@ -1,0 +1,9 @@
+{
+  "name": "beta-puregame",
+  "version": "1.0.0",
+  "description": "Beta Gameplay Demo",
+  "main": "index.html",
+  "repository": "demo.elevenminutes.io",
+  "author": "11Minutes",
+  "license": "MIT"
+}
